@@ -1,6 +1,6 @@
 {
   "name": "granite-css",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Rock granite CSS Styling. Based on Solid from BuzzFeed.",
   "main": "dist/app.css",
   "style": "_lib/solid.scss",
