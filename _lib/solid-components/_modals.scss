@@ -21,8 +21,8 @@
 
 
 .modal__content {
-  @include prefix((animation-duration: .15s), webkit);
-  @include prefix((animation-fill-mode: both), webkit);
+  animation-duration: .15s;
+  animation-fill-mode: both;
   background: $fill-white;
   border: $border;
   border-radius: 3px;
@@ -65,7 +65,7 @@
   }
 
   .modal__content {
-    @include prefix((animation-name: modal__content-scale), webkit);
+    animation-name: modal__content-scale;
   }
 }
 
@@ -74,7 +74,7 @@
 @include keyframes(modal__content-scale) {
   from {
     opacity: 0;
-    @include prefix((transform: scale3d(.6, .6, .6)), webkit);
+    transform: scale3d(.6, .6, .6);
   }
 
   50% {

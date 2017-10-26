@@ -81,7 +81,7 @@ html {
 *,
 *:before,
 *:after {
-  @include prefix((box-sizing: inherit), moz)
+  box-sizing: inherit;
 }
 
 // Responsive Images
