@@ -1,7 +1,7 @@
 {
-  "name": "am-solid",
-  "version": "2.9.2",
-  "description": "Solid CSS Styling",
+  "name": "granite-css",
+  "version": "0.0.1",
+  "description": "Rock granite CSS Styling. Based on Solid from BuzzFeed.",
   "main": "dist/app.css",
   "style": "_lib/solid.scss",
   "browserslist": "last 2 versions",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/aft3rlife/solid.git"
+    "url": "https://github.com/aft3rlife/granite.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aft3rlife/solid/issues"
+    "url": "https://github.com/aft3rlife/granite/issues"
   },
-  "homepage": "https://github.com/aft3rlife/solid",
+  "homepage": "https://github.com/aft3rlife/granite",
   "contributors": [
     {
       "name": "Emily Brick",

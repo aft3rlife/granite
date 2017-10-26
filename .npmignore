@@ -5,6 +5,3 @@
 !_lib
 !release-notes
 !dist
-
-#don't include solid specific
-lib/solid-specific.scss
